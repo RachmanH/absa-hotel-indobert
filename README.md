@@ -3,6 +3,7 @@
 Aspect-Based Sentiment Analysis (ABSA) untuk ulasan hotel berbahasa Indonesia, menggunakan **IndoBERT-lite** fine-tuned pada dataset **HoASA (IndoNLU)**. Proyek UAS Natural Language Processing.
 
 Dataset : https://github.com/IndoNLP/indonlu/tree/master/dataset/hoasa_absa-airy
+Youtube : https://www.youtube.com/watch?v=NJRxl7Y26a8&t=85s
 
 Model mengklasifikasikan sentimen (**positif / negatif / netral**) untuk 10 aspek layanan hotel sekaligus dari satu ulasan: `ac`, `air_panas`, `bau`, `general`, `kebersihan`, `linen`, `service`, `sunrise_meal`, `tv`, `wifi`.
 
